@@ -32,7 +32,7 @@ public class Keys {
             "-----END PRIVATE KEY-----";
 
 
-     public static String clientPublicKey =
+     public static String clientPublicCertificate =
             "-----BEGIN CERTIFICATE-----\n" +
                     "MIIDbTCCAlWgAwIBAgIEVFOsDDANBgkqhkiG9w0BAQsFADBnMQswCQYDVQQGEwJ1" +
                     "czELMAkGA1UECBMCdHgxDjAMBgNVBAcTBWFsbGVuMQwwCgYDVQQKEwNjaXMxETAP" +
@@ -55,7 +55,7 @@ public class Keys {
                     "BbeSne/Nht3Ywo2lR5SjyLA=" +
                     "-----END CERTIFICATE-----";
 
-    public static String serverPublicKey = "-----BEGIN CERTIFICATE-----\n" +
+    public static String serverPublicCertificate = "-----BEGIN CERTIFICATE-----\n" +
             "MIIDXzCCAkegAwIBAgIEa5/1QTANBgkqhkiG9w0BAQsFADBgMQswCQYDVQQGEwJV\n" +
             "UzELMAkGA1UECBMCdHgxDjAMBgNVBAcTBWFsbGVuMREwDwYDVQQKEwhleHBlcmlh\n" +
             "bjESMBAGA1UECxMJc3VyYW1wdWRpMQ0wCwYDVQQDEwR2ZW51MB4XDTIxMTAwNTE0\n" +
